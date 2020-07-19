@@ -2,6 +2,8 @@
 
 <img align="right" src="https://github.com/Rishabh510/Rishabh510/blob/master/gif-3d-cool.gif" width="40%"/>
 
+<hr>
+
 - 🔭 I’m currently working on Some personal projects
 - 🌱 I’m currently learning State Management in Flutter
 - 👯 I’m looking to collaborate on Open Source Projects
