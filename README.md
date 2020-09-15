@@ -5,9 +5,9 @@
 <hr>
 
 - 🔭 I’m currently working on Some personal projects
-- 🌱 I’m currently learning State Management in Flutter
+- 🌱 I’m currently practicing competitive coding.
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Flutter doubts
+- 🤔 I’m looking for help with time management.
 - 💬 Ask me about DS Algo and Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishabh510/) 
 - 😄 Pronouns: He/His
