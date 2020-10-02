@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Rishabh510/Rishabh510/blob/master/gif-3d-cool.gif" width="40%"/>
 
-<hr>
+<Hr>
 
 - 🔭 I’m currently working on Some personal projects
 - 🌱 I’m currently practicing competitive coding.
@@ -13,6 +13,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love dancing in the bathroom listening to EDMs.
 
-<hr>
+<Hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rishabh510&&show_icons=true&title_color=108de6&icon_color=eb0911&text_color=09eb2b&bg_color=000000">
