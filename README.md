@@ -11,7 +11,7 @@
 - 💬 Ask me about DS Algo and Flutter
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishabh510/) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Love dancing in the bathroom listening to EDMs.
+- ⚡ Fun fact: Love dancing listening to EDMs.
 
 <hr>
 
