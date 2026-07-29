@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-I am a **Founding Backend Engineer at Finrep**, where I bridge the gap between complex financial enterprise problems and AI-driven solutions. Currently, my work focuses on high-impact Generative AI implementations and architecting scalable systems.
+I am a **Software Engineer**, and my work focuses on high-impact Generative AI implementations and architecting scalable systems.
 
-- 🛠️ **Current Mission:** Reducing First Contact Resolution (FCR) for Zendesk L1 support using advanced LLM orchestration (ChatGPT/LangChain).
+- 🛠️ **Current Mission:** Optimizing...
 - 🧠 **Expertise:** Deeply invested in Code-First architectures, Prompt Engineering, and Distributed Systems.
 - ⛓️ **Blockchain:** Veteran of the Web3 space with multiple hackathon wins across **Tezos, Polygon, and Filecoin**.
 - 📱 **Full-Stack:** Experienced in crafting seamless cross-platform experiences with **Flutter** and the **MERN** stack.
